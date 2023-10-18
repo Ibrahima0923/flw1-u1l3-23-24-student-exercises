@@ -1,22 +1,23 @@
 // Welcome to the magical zoo! Your task is to create and manage a list of magical creatures. Let's have some fun!
 
 // 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string.
-
+let creatureName= "franklin"
+console.log(creatureName)
 
 
 // 2. Declare a variable named 'creatureDescription' and describe its magical properties as a string.
-
-
+let creatureDescription= "tall, jump high, sharpTeeth, black all around, strong"
+console.log(creatureDescription)
 // 3. Do you believe that this creature is friendly to humans? 
 // Declare a variable named 'isFriendly' and assign it a boolean value.
-
-
+let isFriendly= false;
+console.log(isFriendly)
 
 // 4. The magical zoo has an age restriction! Declare a variable named 'visitorAge' and assign it a random age between 1 and 60.
 // Hint: Use Math.floor() to round a number up.
 // Hint: Use Math.random() for generating random numbers.
-
-
+let visitorAge= 30
+console.log(30)
 
 // 5. Determine if the visitor is allowed to see the creature.
 // Declare a variable named 'canVisit' and assign it an expression to see 
